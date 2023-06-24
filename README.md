@@ -1,6 +1,6 @@
 # Viviendas-en-Melbourne
 This is a data frame csv. about prices of homes in Melbourne. Homes with not Prices has been removed.
-\newline
+
 Rooms: Number of rooms
 
 Price: Price in dollars

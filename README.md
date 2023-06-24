@@ -1,6 +1,8 @@
 # Viviendas-en-Melbourne
 This is a data frame csv. about prices of homes in Melbourne. Homes with not Prices has been removed.
 
+Credits: Tony Pino from Kaggle.com. This dataset was download on June 2023 only for educational reasons (practice machine learning techniques). Data propiedad de Tony Pino, descargado de Kaggle.com solo por razones educativas.
+
 Rooms: Number of rooms
 
 Price: Price in dollars
